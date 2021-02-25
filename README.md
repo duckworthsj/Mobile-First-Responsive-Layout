@@ -1,2 +1,2 @@
-# Project 2
- Project 2 of Treehouse TechDegree
+# Mobile-first Responsive Layout
+A website used with a mobile-first approach 
